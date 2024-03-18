@@ -49,8 +49,8 @@ public class StudentForm extends javax.swing.JFrame {
      * Creates new form StudentForm
      */
     private static final String username="root";
-    private static final String password="animansh1425";
-    private static final String database="jdbc:mysql://localhost:3306/myseatdata";
+    private static final String password="yourpassword";
+    private static final String database="jdbc:mysql://localhost:3306/tablename";
     Connection sqlConn=null;
     PreparedStatement pst=null;
     ResultSet rs=null;
