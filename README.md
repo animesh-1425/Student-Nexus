@@ -36,7 +36,7 @@ The Student Management System is designed to store and manage student informatio
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/yourusername/student-management-system.git
+   git clone https://github.com/animesh-1425/StudentManagementSystem.git
    ```
 
 2. Open the project in NetBeans.
