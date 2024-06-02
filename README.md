@@ -1,4 +1,4 @@
-# Student Nexus
+# Student Nexus 🖥️👨‍🎓
 
 Welcome to the Student-Nexus project! This application is developed using Java Swing on NetBeans and utilizes an SQL database to manage student information efficiently.
 
@@ -36,7 +36,7 @@ The Student-Nexus is designed to store and manage student information, including
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/animesh-1425/StudentManagementSystem.git
+   git clone https://github.com/animesh-1425/Student-Nexus.git
    ```
 
 2. Open the project in NetBeans.
