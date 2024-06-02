@@ -1,6 +1,6 @@
-# Student Management System
+# Student Nexus
 
-Welcome to the Student Management System project! This application is developed using Java Swing on NetBeans and utilizes an SQL database to manage student information efficiently.
+Welcome to the Student-Nexus project! This application is developed using Java Swing on NetBeans and utilizes an SQL database to manage student information efficiently.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Welcome to the Student Management System project! This application is developed 
 
 ## Introduction
 
-The Student Management System is designed to store and manage student information, including name, registration number, branch, section, CGPA, and a photo for each student. The system provides functionality to add new students, update existing details, reset data, delete student records, and exit the interface.
+The Student-Nexus is designed to store and manage student information, including name, registration number, branch, section, CGPA, and a photo for each student. The system provides functionality to add new students, update existing details, reset data, delete student records, and exit the interface.
 
 ## Features
 
